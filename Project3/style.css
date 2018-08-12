@@ -1,0 +1,25 @@
+.dimentions {
+    height: 500px;
+}
+
+.dimentions1 {
+    height: 400px;
+    padding: 40px 80px;
+    text-align: center;
+}
+
+.dimentions2 {
+    height: 850px;
+}
+
+p {
+    font-size: 80px;
+    font-family: 'Slabo 27px', serif;
+    padding: 180px;
+}
+
+.blueBox {
+    height: 300px;
+    width: 300px;
+    background: rgb(57, 57, 206);
+}

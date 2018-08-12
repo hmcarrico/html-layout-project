@@ -1,0 +1,24 @@
+body {
+    background: rgb(214, 214, 214);
+}
+
+header {
+    height: 15vh;
+    background: #444;
+}
+
+main {
+    height: 2760px;
+    width: 70%;
+    background: rgb(255, 255, 255);
+    display: inline-block;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.footer {
+    background: black;
+    height: 10vh;
+    margin-left: 15%;
+    margin-right: 15%;
+}
